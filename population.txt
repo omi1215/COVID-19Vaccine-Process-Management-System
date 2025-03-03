@@ -1,0 +1,6 @@
+lahore
+40000
+karachi
+60000
+islamabad
+20000

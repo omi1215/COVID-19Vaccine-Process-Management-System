@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\rosha\source\repos\vac 3\vac 3\Source.cpp(91,52): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\rosha\source\repos\vac 3\vac 3\Source.cpp(91,27): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\rosha\source\repos\vac 3\vac 3\Source.cpp(201,17): warning C4101: 'cnic': unreferenced local variable
+C:\Users\rosha\source\repos\vac 3\vac 3\Source.cpp(440,13): warning C4552: '>>': result of expression not used
+C:\Users\rosha\source\repos\vac 3\vac 3\Source.cpp(443,13): warning C4552: '>>': result of expression not used
+  vac 3.vcxproj -> C:\Users\rosha\source\repos\vac 3\x64\Debug\vac 3.exe
